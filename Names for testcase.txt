@@ -1,0 +1,38 @@
+Русские имена и фамилии:
+
+Иван Иванов
+Екатерина Смирнова
+Алексей Петров
+Ольга Кузнецова
+Дмитрий Соколов
+Наталья Михайлова
+Андрей Федоров
+Елена Васильева
+Максим Поляков
+Светлана Лебедева
+
+Английские имена и фамилии:
+
+John Smith
+Sarah Johnson
+Michael Brown
+Emily Davis
+James Wilson
+Olivia Taylor
+David Martinez
+Elizabeth Lee
+William Anderson
+Victoria Rodriguez
+
+Индийские имена и фамилии:
+
+Aarav Patel
+Nidhi Shah
+Rohan Gupta
+Aanya Singh
+Dev Sharma
+Anjali Krishnan
+Yuvraj Singh
+Priya Mehta
+Vikram Kumar
+Sunita Gupta
